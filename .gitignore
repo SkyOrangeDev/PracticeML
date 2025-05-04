@@ -1,2 +1,3 @@
+.venv
+.cursor
 .vscode
-.env
